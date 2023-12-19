@@ -30,15 +30,15 @@ Junior Front-end Developer, with Android Development (Kotlin) and UI/UX Design k
 
 ### 📊 GitHub Stats
 
-![Torresic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Torresic&show_icons=true&theme=dracula)
-![Torresic's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Torresic&theme=dracula&hide_border=true)<br/>
-![Torresic's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Torresic&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![icabt's GitHub stats](https://github-readme-stats.vercel.app/api?username=icabt&show_icons=true&theme=dracula)
+![icabtv's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=icabt&theme=dracula&hide_border=true)<br/>
+![icabt's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=icabt&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <hr style="border:2px solid #666666">
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Torresic&no-frame=true&theme=dracula&margin-w=30)](https://github.com/Torresic/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=icabt&no-frame=true&theme=dracula&margin-w=30)](https://github.com/icabt/github-profile-trophy)
 
 <hr style="border:2px solid #666666">
 
@@ -47,4 +47,4 @@ Junior Front-end Developer, with Android Development (Kotlin) and UI/UX Design k
 ![Jokes Card](https://readme-jokes.vercel.app/api)
     
 
-[![](https://visitcount.itsvg.in/api?id=Torresic&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=icabt&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
