@@ -1,8 +1,8 @@
 <img src="https://github.com/icabt/icabt/blob/main/giphy.gif" width="100%" height="500"/>
 
 ### Hi there 👋
-Hello, I'm Ismael, a passionate 21-year-old Front-end Developer from Spain, specializing in Full Stack Development. 
-With a keen interest in UI/UX Design, I'm currently channeling my skills into an exciting project aimed at promoting rural areas. 
+Hello, I'm Ismael, a passionate 22-year-old Front-end Developer from Spain, specializing in Full Stack Development. 
+With a keen interest in UI/UX Design, I'm currently channeling my skills into an exciting projec. 
 My goal is to blend innovative design with functional programming to create impactful digital solutions.
 
 ### 🌐 Profiles:
